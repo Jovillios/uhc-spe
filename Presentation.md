@@ -6,7 +6,7 @@ Le projet UHC-Survival est un nouveau mode de jeu en multijoueur qui s'adresse p
 
 <h3>Système de Jeu</h3>
 
-Il s'agit d'une survie en difficulté ultra-hardcore (difficulty=hard + naturalRegeneration=false) avec un seed définie à l'avance (voir section seed en annexe) sur un serveur principalement en vanilla.
+Il s'agit d'une survie en difficulté ultra-hardcore (difficulty=hard + naturalRegeneration=false) avec un seed définie à l'avance (voir section seed en annexe) sur un serveur en vanilla.
 
 <h3>Système de Points</h3>
 
@@ -20,13 +20,14 @@ Le PVP (combat joueur contre joueur) est réglementé. Le PVP n'est autorisé qu
 
 Les objectifs permettent à l'équipe les réalisant de gagner d'augmenter son score. Lorsqu'un objectif est accomplie, l'équipe doit en informer un responsable afin qu'il vérifie si celui-ci a été réalisé en bonne et due forme.  Si celui-ci approuve l'équipe gagne les points attribué à cet objectif sinon elle doit recommencer. Attention une fois accomplie l'objectif ne peut plus être réalisé. Pour connaître les objectifs à accomplir se référer à la section objectif de l'annexe.
 
-<h3>Commerce</h3>
+<h3>La Ville</h3>
 
-Si celui-ci est activé, le commerce est assuré par le plugin essentials via un marché à construire. Le commerce permet aux échanges d'items entre équipes. Chaque membre d'équipe commence avec 100$. 
+Le but de mode de jeu est de créer une ville au lieu de spawn. Ainsi toutes les constructions,base et salles de coffres de chaque équipe doivent être concentrées dans la ville. Celle-ci peut être nommé par l'équipe construisant la mairie. Il n'y a aucune restriction sur le style des bâtiments. 
+
+<h3>Ressources et Propriétés</h3>
+
+Les ressources sont gérés par équipe. Les ressources d'une équipe doivent être entreposés dans une ou plusieurs salle des coffres. Il est interdit à toute autre équipe de voler des ressources dans une salle des coffres. Cependant les coffres des fermes ou usines sont libres d'accès. Chaque structure créé par une équipe ne peut être modifié que par celle-ci mais l'accès est autorisé à toutes les autres équipes.
 
 <h3>Evolution en cours de Jeu</h3>
 
 Si un nouveau joueur souhaite rejoindre l'aventure sous certaines conditions. De manière générale la configuration des équipes à privilégier est l'équilibre effectif. Toutefois, si cela n'est pas possible, il y a plusieurs solutions. Si le nouveau joueur doit rejoindre l'équipe avec le moins de membre, s'il y a égalité, il doit choisir celle le score le plus bas. Si un joueur doit partir il est recommandé de lui trouver un remplaçant.
-
-
-

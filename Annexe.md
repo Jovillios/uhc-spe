@@ -17,7 +17,7 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 | Très simple         | à refaire | 0.25 | 0.5  | 0.75 | 1      |
 | Simple              | à refaire | 0.5  | 0.75 | 1    | 1.5    |
 | Modéré              | à refaire | 0.75 | 0    | 1.5  | 2      |
-| T                   | à refaire | 1    | 1.5  | 1    | 2.5    |
+| Difficile           | à refaire | 1    | 1.5  | 1    | 2.5    |
 | Très difficile      | à refaire | 1.5  | 2    | 2.5  | 3      |
 
 <h5>Construction</h5>
@@ -33,8 +33,9 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 * Construire la château
 * Construire le marché
 * Aménager le spawn
-* Construire le bâteau de pirate
+* Construire le bateau de pirate
 * Construire le dirigeable
+* Aménager le portail du nether.
 * Construire l'aquarium avec les poissons
 * Construire la base du nether
 * Construire la muraille de la ville
@@ -44,6 +45,7 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 * Construire la statue du Dieu du serveur
 * Construire le champ de tournesol
 * Construire les rues de la ville avec leur nom
+* Construire un village à villageois
 
 <h5>Redstone</h5>
 
@@ -55,7 +57,9 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 * Construire l'usine à blaze
 * Construire le système de minecart à travers la ville
 * Construire usine à laine
-* 
+* Construire ferme à vache
+* Construire ferme à cochon
+* Construire ferme à slime
 
 <h5>Exploration</h5>
 
@@ -67,7 +71,7 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 * Trouver temple de la jungle
 * Trouver le stonghold
 * Trouver forteresse du nether
-* Trouver forteresse de l'end avec bâteau à elytra
+* Trouver forteresse de l'end avec bateau à elytra
 * Récolter tous les types de poissons différents (vivant)
 
 <h5>Aventure</h5>
@@ -94,6 +98,20 @@ Les objectifs sont divisés en différentes catégories rapportant un certain sc
 * La Pelteuse  (Pelle en diamant Efficacité X + Solidité X )
 * L'Annihilator (Pioche en diamant Efficacité X + Solidité X)
 * Excalibur (Epée en diamant Tranchant X + Solidité X)
+
+
+
+<h3>Tournois PVP</h3>
+
+Les tournois PVP se déroulent dans une arène. Chaque équipe élit un champion qui devra se battre pendant tout le tournoi. Chaque champion doit faire un duel avec chaque autre champion soit un total de 6 duels. Les champions choisissent leur stuff via leur ressource. Cependant aucun stuff ne peut être voler durant le tournoi. Un duel dure 10 min (maximum)  si un champion réussit à tuer son opposant il gagne et son opposant perd, sinon au bout de 10 min il y a match nul. Selon son classement l'équipe reçoit un gain en score.
+
+| Match          | Victoire | Nulle | Défaite |
+| -------------- | -------- | ----- | ------- |
+| Points tournoi | 1        | 0.5   | 0       |
+
+| Classement    | 1er  | 2nd  | 3e   | 4e   |
+| ------------- | ---- | ---- | ---- | ---- |
+| Gain en score | 500  | 4    | 100  | 0    |
 
 
 
